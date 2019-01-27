@@ -40,4 +40,4 @@ http -a hakase https://registry.hakase-labs.io/v2/_catalog
 
 Results:
 
-
+![alt text](https://raw.githubusercontent.com/ndlrx/docker-registry/master/result.png "Private Docker Registry Up and Running")
